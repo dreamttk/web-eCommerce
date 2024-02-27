@@ -1,0 +1,126 @@
+.crop-contact-box {
+  justify-content: center;
+  display: flex;
+  margin-top: -100px;
+}
+.contact-box {
+  height: 1144px;
+  width: 1440px;
+}
+.contact-boxtop1 {
+  height: 221px;
+  width: 1440px;
+  text-align: center;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.contact-boxtop2 {
+  height: 923px;
+  width: 1440px;
+  flex-direction: row;
+  display: flex;
+  justify-content: center;
+}
+.f-getintouch {
+  font-size: 36px;
+  font-weight: 600;
+}
+.f-getintouch1 {
+  color: #9f9f9f;
+}
+.contact-boxtopleft {
+  height: 923px;
+  width: 400px;
+  flex-direction: row;
+  display: flex;
+}
+.mini-boxtopleft1 {
+  height: 450px;
+  width: 30px;
+  margin-top: 35px;
+}
+.mini-ledt-col {
+  height: 110px;
+  width: 200px;
+  border-radius: 10px;
+  margin-top: 6px;
+}
+.mini-boxtopleft {
+  height: 500px;
+  width: 393px;
+  margin-top: 35px;
+  margin-left: 30px;
+}
+.contact-boxtopright {
+  height: 840px;
+  width: 550px;
+  justify-content: space-evenly;
+  display: flex;
+  flex-direction: column;
+  margin-top: 35px;
+}
+.box3-onbox {
+  height: 75px;
+  width: 528px;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  font-size: 16px;
+  padding-left: 20px;
+}
+.box1-onbox {
+  height: 120px;
+  width: 528px;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  font-size: 16px;
+  padding-left: 20px;
+  padding-top: 30px;
+}
+.but-submid {
+  background-color: #b88e2f;
+  border: 0px;
+  width: 200px;
+  height: 60px;
+  margin-top: 50px;
+  font-size: 20px;
+  color: #fff;
+  cursor: pointer;
+  margin-left: 80px;
+}
+.font-mini-right {
+  height: 50px;
+  text-align: start;
+  align-items: center;
+  display: flex;
+  font-size: 17px;
+  font-weight: 600;
+}
+.font-mini-left {
+  font-size: 24px;
+  margin-top: 5px;
+  font-weight: 600;
+}
+.set-Vector12 {
+  height: 27.59px;
+  width: 22px;
+  position: relative;
+  left: -1px;
+  top: 9px;
+}
+.set-Vector13 {
+    height: 30px;
+    width: 30px;
+    position: relative;
+    left: -1px;
+    top: 131px;
+  }
+  .set-Vector14 {
+    height: 23px;
+    width: 23px;
+    position: relative;
+    left: -1px;
+    top: 254px;
+  }
+  

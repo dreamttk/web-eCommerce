@@ -1,0 +1,141 @@
+.crop-totals {
+  justify-content: center;
+  display: flex;
+  margin-top: -15vh;
+}
+.totals-box {
+  height: 525px;
+  width: 1440px;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+}
+.totals-box-in {
+  height: 390px;
+  width: 1240px;
+  flex-direction: row;
+  display: flex;
+  justify-content: space-evenly;
+}
+.totals-left {
+  height: 215px;
+  width: 817px;
+  font-size: 18px;
+}
+.totals-right {
+  height: 390px;
+  width: 393px;
+  background-color: #f9f1e7;
+  justify-content: space-around;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.cart-totals-f {
+  font-size: 32px;
+  font-weight: 600;
+}
+.totals-left-top {
+  height: 55px;
+  width: 817px;
+  background-color: #f9f1e7;
+  flex-direction: row;
+  display: flex;
+}
+.totals-left-f {
+  height: 55px;
+  width: 195px;
+  font-size: 18px;
+  flex-direction: row;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-left: 192px;
+}
+.totals-left-f1{
+    height: 55px;
+    width: 162px;
+    font-size: 18px;
+    flex-direction: row;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 106px;
+}
+.crop-pd {
+  height: 24px;
+  width: 63;
+  background-color: #b88e2f;
+  margin-left: 160px;
+}
+.crop-qnt {
+  height: 24px;
+  width: 76px;
+  background-color: #b88e2f;
+  margin-left: -10px;
+}
+.set-cart-sofa {
+  justify-content: space-evenly;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-top: 20px;
+}
+.bg-sofa-cart {
+  height: 105px;
+  width: 105px;
+  background-color: #f9f1e7;
+  border-radius: 10px;
+}
+.Quantity1-but {
+  height: 32px;
+  width: 32px;
+  font-size: 18px;
+  border: 1px solid #0000008e;
+  border-radius: 5px;
+}
+.subtotal {
+  height: 24px;
+  width: 250px;
+  flex-direction: row;
+  display: flex;
+  justify-content: space-between;
+}
+.subtotal2 {
+  height: 24px;
+  width: 250px;
+  flex-direction: row;
+  display: flex;
+  display: flex;
+  justify-content: space-between;
+  margin-top: -30px;
+}
+.subtotals-cl2 {
+  color: #b88e2f;
+  font-size: 20px;
+}
+.subtotals-cl1 {
+  color: #9f9f9f;
+  font-size: 18px;
+}
+.checkout-but {
+  background-color: #f9f1e7;
+  height: 58px;
+  width: 222px;
+  border-radius: 15px;
+  border: 1px solid #0000008e;
+  font-size: 20px;
+  margin-top: -20px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+.checkout-but:hover {
+  background-color: #b88e2f;
+  border-radius: 15px;
+  border: 1px solid #ffffff;
+  font-size: 20px;
+  margin-top: -20px;
+  cursor: pointer;
+  transform: scale(1.01);
+  color: #fff;
+}
